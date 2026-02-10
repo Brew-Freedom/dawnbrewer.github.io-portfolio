@@ -1,1 +1,65 @@
+/* --- Global --- */
+body {
+  line-height: 1.6;
+}
+
+/* --- QA Badge --- */
+.qa-badge {
+  margin: 1rem 0;
+  font-weight: 600;
+}
+
+/* --- Details Toggle --- */
+details {
+  margin-top: 1rem;
+  padding: 0.75rem;
+  background: #fafafa;
+  border-left: 3px solid #ddd;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* --- Trust Signals Slide Layout --- */
+.trust-slide {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  gap: 24px;
+  margin: 3rem 0;
+  align-items: center;
+}
+
+.trust-left h2 {
+  margin-top: 0;
+}
+
+.trust-left ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.trust-left li {
+  margin-bottom: 12px;
+}
+
+.trust-footer {
+  margin-top: 1rem;
+  font-style: italic;
+  color: #555;
+}
+
+.trust-right img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+/* --- Responsive --- */
+@media (max-width: 900px) {
+  .trust-slide {
+    grid-template-columns: 1fr;
+  }
+}
 
