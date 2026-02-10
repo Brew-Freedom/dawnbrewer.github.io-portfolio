@@ -6,8 +6,6 @@ title: Dawn Brewer — Product & UX Portfolio
 
 I design human-centered systems that make AI risk, data compliance, and decision-making visible **before deployment**, not after.
 
-
-
 ## The Problem
 
 AI teams often discover licensing, data provenance, or compliance issues too late — when fixes are expensive or impossible.
@@ -44,16 +42,12 @@ and real-world use in mind — not just visual polish.
 - ✔️ Plain-language explanations for non-technical users
 - ✔️ Explicit handling of incomplete or uncertain data
 ### What I didn’t test (yet)
-
 To be transparent, this MVP does not yet cover:
-
 - Large-scale, multi-team permission models
 - Cross-region regulatory differences
 - Automated exports for external regulators
-
 These were intentionally scoped out to focus on
 clarity, decision timing, and human review workflows first.
----
 
 **Why this matters**
 
