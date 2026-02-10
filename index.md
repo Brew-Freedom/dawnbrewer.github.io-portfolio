@@ -1,13 +1,12 @@
----
+
 layout: default
 title: Dawn Brewer — Product & UX Portfolio
----
 
 # AI Reporting & Audit Flow
 
 I design human-centered systems that make AI risk, data compliance, and decision-making visible **before deployment**, not after.
 
----
+
 
 ## The Problem
 
@@ -17,13 +16,11 @@ Legal teams lack visibility.
 Product teams lack clear signals.  
 Risk shows up at the worst possible time.
 
----
 
 ## The Solution
 
 An AI reporting flow that surfaces risk early, explains it clearly, and routes it to the right humans at the right moment.
 
----
 
 ## How It Works
 
