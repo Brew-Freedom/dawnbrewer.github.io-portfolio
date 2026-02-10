@@ -79,3 +79,6 @@ next steps in a production build.
 ## Why this matters
 You don’t have to trust the AI —
 you can see what it’s doing.
+<section class="trust-signals">
+  {% include trust-signals.html %}
+</section>
