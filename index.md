@@ -23,8 +23,6 @@ Risk shows up at the worst possible time.
 
 An AI reporting flow that surfaces risk early, explains it clearly, and routes it to the right humans at the right moment.
 
-{% include trust-signals.html %}
-
 ---
 
 ## How It Works
